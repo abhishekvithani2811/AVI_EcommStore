@@ -8,6 +8,7 @@
   background-image: url("../../Assets/pattern_bg.png");
   background-size: cover;
   background-position: center;
+
 }
 
 .errorContainer h1 {
@@ -59,6 +60,7 @@
   .errorContainer {
     height: 500px;
   }
+
   .errorContainer h1 {
     font-size: 70px;
   }
